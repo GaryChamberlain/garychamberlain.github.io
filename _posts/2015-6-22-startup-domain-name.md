@@ -10,7 +10,7 @@ So, you have a start up and need a domain name?  Well, yes, if you have a start 
 
 ## Domain Name Basics
 
-Domain names consist of two or more phrases, each separated by a period. The domain `example.com` uses the _com_ top level domain (a.k.a. TLD) and _example_ as a second-level domain.  There are a handful of common TLDs that have been around for a very long time, such as .com, .net, .org, .edu, .mil, and so forth.  These are termed generic top level domains, or gTLD for short.  Each was created to serve a particular purpose, such as .com for commercial, .edu for education, etc. Each gTLD is three or more characters. 
+The domain `example.com` uses the _com_ top level domain (a.k.a. TLD) and _example_ as a second-level domain.  The .com TLD is one of a handful of common TLDs which have been around for a very long time. Others include .net, .org, .edu, .gov, and so forth.  These are termed generic top level domains, or gTLDs for short.  Each was created to serve a particular purpose, such as .com for commercial, .edu for education, etc. Each gTLD is three or more characters. 
 
 Some gTLDs have strict rules, and only allow particular kinds of organizations to register a second level domain, such as .mil and .edu. Others are much more flexible, and available on a first come first served basis. For example, it's perfectly acceptable for a non-profit company to register and use a .com domain, and a for-profit corporation to register and use a .org domain.
 
