@@ -36,4 +36,4 @@ Google, and perhaps other search engines, recognize this and choose on a case-by
 
 Until recently, it was difficult and expensive to get a decent domain name.  There just weren't enought of them, so the good ones were either already in use or being squatted on by those seeking an easy pay day. That's all changing, though!  There has been an explosion of new top level domains, with more coming all the time.  The association of the phrase "dot com" with websites will be relegated to an anachronism over the coming years.  So, there's no need to worry about having that perfect .com domain, or pay an exhoritant amount for one.
 
-<iframe width="297" height="164" src="http://www.youtube.com/embed/1kFcxf8KAjg?showinfo=0" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="297" height="164" src="http://www.youtube.com/embed/1kFcxf8KAjg?showinfo=0" frameborder="0" allowfullscreen="" style="float:right;"></iframe>
