@@ -28,10 +28,12 @@ Secondly, since countries are regional within the world, there are search engine
 
 ### General ccTLDs
 
-There are some ccTLDs that have been marketed to be general, and have gained worldwide traction.  For instance, while the .me domain is for the country Montenegro, many people in other countries register them for personal use.  The .co domain (columbia) has been marketed as the _new .com_ and has become popular for general use.  Similarly, the .io domain (British Indian Ocean Territory) is very popular for technology websites.
+There are some ccTLDs that have been marketed to be generic, and have gained worldwide traction.  For instance, while the .me domain is for the country Montenegro, many people in other countries register them for personal use.  The .co domain (columbia) has been marketed as the _new .com_ and has become popular for general use.  Similarly, the .io domain (British Indian Ocean Territory) is very popular for technology websites.
 
-Google, and perhaps other search engines, recognize this and choose on a case-by-case basis which ccTLDs are considered general.  These ones are safe to use from an SEO perspective. Google publishes a list of [Generic Country Code Top Level Domains](https://support.google.com/webmasters/answer/1347922?hl=en).
+Google, and perhaps other search engines, recognize this and choose on a case-by-case basis which ccTLDs are considered generic.  These ones are safe to use from an SEO perspective. Google publishes a list of [Generic Country Code Top Level Domains](https://support.google.com/webmasters/answer/1347922?hl=en).
 
-### New Generic Domains
+### New Domains
+
+Until recently, it was difficult and expensive to get a decent domain name.  There just weren't enought of them, so the good ones were either already in use or being squatted on by those seeking an easy pay day. That's all changing, though!  There has been an explosion of new top level domains, with more coming all the time.  The association of the phrase "dot com" with websites will be relegated to an anachronism over the coming years.  So, there's no need to worry about having that perfect .com domain, or pay an exhoritant amount for one.
 
 <iframe width="297" height="164" src="http://www.youtube.com/embed/1kFcxf8KAjg?showinfo=0" frameborder="0" allowfullscreen=""></iframe>
