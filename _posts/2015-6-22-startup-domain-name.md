@@ -10,9 +10,9 @@ So, you have a start up and need a domain name?  Well, yes, if you have a start 
 
 ## Domain Name Basics
 
-Domain names consist of two or more phrases, each separated by a period. The domain name `example.com` uses the _com_ top level domain (a.k.a. TLD) and a second-level domain _example_.  There are a handful of common TLDs that have been around for a very long time, such as .com, .net, .org, .edu, .mil, and so forth.  These are termed general top level domains, or gTLD for short.  Each was created to server a particular purpose, such as .com for commercial, .edu for education, etc. Each gTLD is three or more characters. 
+Domain names consist of two or more phrases, each separated by a period. The domain name `example.com` uses the _com_ top level domain (a.k.a. TLD) and _example_ as a second-level domain.  There are a handful of common TLDs that have been around for a very long time, such as .com, .net, .org, .edu, .mil, and so forth.  These are termed generic top level domains, or gTLD for short.  Each was created to serve a particular purpose, such as .com for commercial, .edu for education, etc. Each gTLD is three or more characters. 
 
-Some gTLDs have strict rules, and only allow particular kinds of organizations to register a second level domain, such as .mil and .edu. Others are much more flexible, and available on a first come first served basis. For example, it's perfectly acceptable for a non-profit company to register and use a .com domain, and a for profit corporation to register and use a .org domain.
+Some gTLDs have strict rules, and only allow particular kinds of organizations to register a second level domain, such as .mil and .edu. Others are much more flexible, and available on a first come first served basis. For example, it's perfectly acceptable for a non-profit company to register and use a .com domain, and a for-profit corporation to register and use a .org domain.
 
 [Original Top Level Domains](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains#Original_top-level_domains)
 
@@ -28,6 +28,6 @@ Secondly, since countries are regional within the world, there are search engine
 
 ### General ccTLDs
 
-There are some 
+There are some ccTLDs that have been marketed to be general, and have gained worldwide traction.  For instance, while the .me domain is for the country Montenegro, any people in other countries register them for personal use.  The .co domain (columbia) has been marketed as the new .com and has become popular for general use.  Similarly, the .io domain (British Indian Ocean Territory) is very popular for technology websites.  Google, and perhaps other search engines, recognize this and choose on a case-by-case basis which ccTLDs are considered general.  These ones are safe to use from an SEO perspective. Google publishes a list of [Generic Country Code Top Level Domains](https://support.google.com/webmasters/answer/1347922?hl=en).
 
 <iframe width="297" height="164" src="http://www.youtube.com/embed/1kFcxf8KAjg?showinfo=0" frameborder="0" allowfullscreen=""></iframe>
