@@ -12,11 +12,11 @@ Every business has different needs. The way that you want to engage with your cu
 
 Consider the following list.  Some of these might be good for your company, and some just aren't. Some might be a good choice, but just not right away.  Think of your website as a platform, that is geared to help your customers, and to help you engage with them.
 
-|  feature  | description                              |
-|-----------|:-----------------------------------------|
-| **one**   | description   |
-| **two**   | description  |
-| **three** | description  |
+feature  | description
+---------|:-----------------------------------------
+**one**  | description
+**two**  | description
+**three**| description
 
 
 ## The Plan
