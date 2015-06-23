@@ -49,5 +49,13 @@ Should you get multiple domains related to your business and stockpile them?  Of
 
 Here are some reasons why you might get and hold an additional domains.
 
-1 You are planning on using it for a specific website or web application.
-2 You are
+1. You are planning on using it for a specific website or web application.
+2. It represents a brand and you want it to _redirect_ to a section of your website.
+3. It represents a word that you think someone might hand-type and want it to _redirect_ to your website.
+4. It is common misspelling of your brand and want it to _redirect_ to your website.  Note that this can be pricey and is usually not worth it, unless you're a big company with a big budget.
+5. You think it is valuable and want to hold on to it in case someone wants to buy it from you some day.  Note that while this still happens quite a bit, the resale value of most domains has dropped quite a bit and will continue to do so due to the flood of new top level domains.
+6. You just think it's cool and want it.  Sure, that's reasonable. You like it and might find a good use for it later.
+
+Note that the word _redirect_ is used a lot in this list.  It can really hurt your SEO to point lots of domains at your website, unless they are configured to send a permantent redirection header or canonocial link.  In that case, the extra domain has no SEO value.   
+
+Generally speaking, get one good domain name and stick with it.
