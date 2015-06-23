@@ -43,6 +43,10 @@ Until recently, it was difficult and expensive to get a decent domain name.  The
 
 Wouldn't it be great to have a short, one word dot com domain name.  Yes, it would.  However, unless you have a ton of money, it's probably not going to happen.  You can probably get a good one or two word domain with a new TLD that is specific to your industry.  That would be a good choice.
 
+### Your Own Domain
+
+It is important to get your own domain name.  Service providers would love for you to use a subdomain of theirs, such as yourcompany.theircompany.com. Using a domain like that locks you into their service.  You can't take that domain with you. It will be more difficult for your customers to find you if you change providers, and you will lose all of your search engine page rank.  Using your own domain name enables the option to change providers.  Plus, you can have an email address on your own domain name, which appears more professional to your customers.
+
 ### Multiple Domains
 
 Should you get multiple domains related to your business and stockpile them?  Of course, that's up to you.  To be clear, pointing multiple domains at your one website does not help your search engine rankings, and can harm them if the search engine recognizes duplicate content.
