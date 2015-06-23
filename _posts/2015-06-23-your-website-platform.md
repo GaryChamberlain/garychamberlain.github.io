@@ -8,15 +8,15 @@ Many new entrepreneurs know they need a website.  When asked, they will state it
 
 ## What do you want your website to do?
 
-Every business has different needs. The way that you want to engage with your customers will probably be a bit different than someone in a another industry. Regardless, there are many well established tools that can used. Furthermore, there are often pluggable implementations to get you started quickly.
+Every business has different needs. The way that you want to engage with your customers will probably be a bit different than someone in a another industry. Regardless, there are many well established features that can used. Furthermore, there are often pluggable implementations to get you started quickly.
 
 Consider the following list.  Some of these might be good for your company, and some just aren't. Some might be a good choice, but just not right away.  Think of your website as a platform, that is geared to help your customers, and to help you engage with them.
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|  feature  | description                              |
+|-----------|:-----------------------------------------|
+| **one**   | description   |
+| **two**   | description  |
+| **three** | description  |
 
 
 ## The Plan
