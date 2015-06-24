@@ -4,4 +4,5 @@ table.feature-table td {
 table.feature-table td:first-child {
 	text-align: center;
 	font-weight: bold;
+    white-space: nowrap;
 }
