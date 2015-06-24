@@ -49,7 +49,7 @@ While tools like WordPress are free, you still need to put them someplace online
 Consider popular providers such as [SiteGround](https://www.siteground.com/) or [HostGator](http://www.hostgator.com/).
 
 
-### Free Hosting
+## Free Hosting
 
 If you don't need a database, or a program running on the server, there are some free options.  If you're willing to roll your sleeves up and learn a few tools, you can host a website for free. 
 
