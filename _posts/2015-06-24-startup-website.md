@@ -1,7 +1,8 @@
 ---
-published: false
+layout: post
+title: Startup Website
+published: true
 ---
-
 
 Got a startup and need a website?  If you're not overly technical, it might be a little daunting.  I'll cover the basics and hopefully help you get started.
 
