@@ -127,5 +127,5 @@ Given all the features that you might want, it's not uncommon to feel a little o
 
 Another important benefit of tools like these is that they can be extended with plugins.  You can pick and choose the right set of plugins to get the website features that you want. WordPress, Joomla and Drupal each have a marketplace where you can get free and affordable extensions.
 
-Start with a minimal set of functionality.  Learn it. Get comfortable with it. Then, start looking for the right extensions.  Ask people that use the same software what they use. Join local meetups.  Read blogs and opinion pieces.  The tools are there for you, and they're not very expensive.  You just need to get started.
+Start with a minimal set of functionality.  Learn it. Get comfortable with it. Then, begin looking for the right extensions.  Ask people that use the same software what plugins they use. Join local meetups.  Read blogs and opinion pieces.  The tools are there for you, and they're not very expensive, nor very complicated.  You just need to get started.
 
