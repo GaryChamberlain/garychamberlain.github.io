@@ -4,6 +4,7 @@ title: Startup Website
 published: true
 ---
 
+
 Got a startup and need a website?  If you're not overly technical, it might be a little daunting.  I'll cover the basics and hopefully help you get started.
 
 You'll need [a domain name](/startup-domain-name/).  Plus, you should start thinking about what [features](/your-website-platform/) you'll want your website to have. 
@@ -23,3 +24,24 @@ Programmers are expensive. If you want to hire a programmer to write a custom we
 
 Unless you have a specific need to develop a custom application, you should probably use one of these.  All of these are very extensible.  They have marketplaces that provide free and affordable extensions.  Plus, if you need to, you can hire a software developer to develop just the extension that you need, and not pay them for all the other stuff that comes by default.
 
+
+## Custom Service Providers
+
+There are companies out there that provide _website services_. You create an account with them, use their tools, and _poof_, you have a website. They try to make it simple. I recommend you avoid services like this for reasons that include the following.
+
+### Lock-in
+
+These companies usually have proprietary solutions.  While they might say they have an export feature, it's not in their best interest to make it easy for you to leave.  Be especially weary if you need to use a domain name based on theirs.  You cannot take that with you.
+
+### Limited Features
+
+While some of these tools might have a lot of features, they are usually not pluggable or extensible.  You get what you get.  They provide the set of features that they can market well.  If they do have extensibility, you usually have to pay extra.
+
+### Expensive
+
+They'll advertise a cheap price.  However, you usually don't get a lot for that price. _e.g. $5 per month for a whopping 5 pages!_
+
+
+## Hosting
+
+While tools like WordPress are free, you still need to put them someplace online.  As a startup, you probably shouldn't need to pay more thatn $10 a month.  If you use standard 
