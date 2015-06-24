@@ -42,11 +42,20 @@ While some of these tools might have a lot of features, they are usually not plu
 They'll advertise a cheap price.  However, you usually don't get a lot for that price. _e.g. $5 per month for a whopping 5 pages!_
 
 
-## Hosting
+## Hosting WordPress et al
 
-### WordPress et al
 While tools like WordPress are free, you still need to put them someplace online.  As a startup, you probably shouldn't need to pay more thatn $10 a month.  If you use standard software like WordPress, you can easily move it to a more capable (more expensive) server _when you need to_.
 
 Consider popular providers such as [SiteGround](https://www.siteground.com/) or [HostGator](http://www.hostgator.com/).
 
-### Free
+
+### Free Hosting
+
+If you don't need a database, or a program running on the server, there are some free options.  If you're willing to roll your sleeves up and learn a few tools, you can host a website for free. 
+
+For example, [GitHub Pages](https://pages.github.com/) is a completely free solution for hosting static web pages. Hundreds of thousands of websites are hosted there. Large companies like Google, Microsoft and IBM use them for some of their sites, and the U.S. government uses GitHub pages to host sites like whitehouse.gov. If you're willing to take the time to learn tools like [Markdown](http://whatismarkdown.com/), [Jekyll](http://jekyllrb.com/) and [Git](https://git-scm.com/), you can make great websites for free, and [they can look very good](https://www.google.com/#q=free+jekyll+themes).
+
+
+
+
+
