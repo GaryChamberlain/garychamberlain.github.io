@@ -1,4 +1,6 @@
 ---
+layout: post
+title: Your Website Platform
 published: true
 ---
 
