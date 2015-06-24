@@ -4,11 +4,6 @@ title: Your Website Platform
 published: true
 ---
 
-
-
-
-
-
 Many new entrepreneurs know they need a website.  When asked, they will state it as one of their early objectives.  What does that mean?  When asked, they might say something like, "_so my customers can find me_" or "_so I can sell stuff._"  Those are perfectly valid responses, but might be too limited.  In fact, your website could be much more.
 
 ## What do you want your website to do?
