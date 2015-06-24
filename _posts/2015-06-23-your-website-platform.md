@@ -8,6 +8,7 @@ published: true
 
 
 
+
 Many new entrepreneurs know they need a website.  When asked, they will state it as one of their early objectives.  What does that mean?  When asked, they might say something like, "_so my customers can find me_" or "_so I can sell stuff._"  Those are perfectly valid responses, but might be too limited.  In fact, your website could be much more.
 
 ## What do you want your website to do?
@@ -121,3 +122,10 @@ Consider the following list.  Some of these might be good for your company, and 
 </tbody></table>
 
 ## The Plan
+
+Given all the features that you might want, it's not uncommon to feel a little overwhelmed.  Relax.  Take a deep breath. Then, just start. While there are many ways to build a website, [WordPress](https://wordpress.org/) is a very good option for new startups, especially if you are not overly-technical.  There are other similar tools, such as [Joomla](http://www.joomla.org/) and [Drupal](https://www.drupal.org/) if you like them more.  Each of these are open source, which means they are free to use.  However, you will need to pay a hosting company to run the software on a server somewhere.  Also, you'll need [a domain name](/startup-domain-name/). 
+
+Another important benefit of tools like these is that they can be extended with plugins.  You can pick and choose the right set of plugins to get the website features that you want. WordPress, Joomla and Drupal each have a marketplace where you can get free and affordable extensions.
+
+Start with a minimal set of functionality.  Learn it. Get comfortable with it. Then, start looking for the right extensions.  Ask people that use the same software what they use. Join local meetups.  Read blogs and opinion pieces.  The tools are there for you, and they're not very expensive.  You just need to get started.
+
