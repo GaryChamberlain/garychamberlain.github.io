@@ -44,4 +44,9 @@ They'll advertise a cheap price.  However, you usually don't get a lot for that 
 
 ## Hosting
 
-While tools like WordPress are free, you still need to put them someplace online.  As a startup, you probably shouldn't need to pay more thatn $10 a month.  If you use standard 
+### WordPress et al
+While tools like WordPress are free, you still need to put them someplace online.  As a startup, you probably shouldn't need to pay more thatn $10 a month.  If you use standard software like WordPress, you can easily move it to a more capable (more expensive) server _when you need to_.
+
+Consider popular providers such as [SiteGround](https://www.siteground.com/) or [HostGator](http://www.hostgator.com/).
+
+### Free
