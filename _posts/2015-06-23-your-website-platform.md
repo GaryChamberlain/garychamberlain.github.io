@@ -5,15 +5,16 @@ published: true
 ---
 
 
+
 Many new entrepreneurs know they need a website.  When asked, they will state it as one of their early objectives.  What does that mean?  When asked, they might say something like, "_so my customers can find me_" or "_so I can sell stuff._"  Those are perfectly valid responses, but might be too limited.  In fact, your website could be much more.
 
 ## What do you want your website to do?
 
-Every business has different needs. The way that you want to engage with your customers will probably not be the same as someone in a another industry. Regardless, there are many well established features that can be used. Furthermore, there are often pluggable implementations to get you started quickly.
+Every business has different needs. The way that you want to engage with your customers will probably not be the same as someone in another industry. Luckily, there are many well established features that you can choose from. There are often prebuilt implementations that you can plug into your site to get you started quickly.
 
-Consider the following list.  Some of these might be good for your company, and some just aren't. Some might be a good choice, but just not right away.  Think of your website as a platform, that is geared to help your customers, and to help you engage with them. Then, pick features that will transform your website into a tool which serves those goals.
+Consider the following list.  Some of these might be good for your company, and some just aren't. Some might be right for your, just not right away.  Think of your website as a platform that is geared to help your customers, and to help you engage with them. Then, pick features that will transform your website into a tool which serves those goals.
 
-Here are some to consider.
+Here are some features to consider.
 
 <table class='feature-table'><thead>
   <tr>
