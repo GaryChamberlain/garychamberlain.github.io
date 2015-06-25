@@ -43,7 +43,7 @@ http://newgtlds.icann.org/en/
 
 ### nic
 
-It's not a requirement, but organizations that manages top level domains usually have a website with the nic second level where you can get more information about the TLD.  Some examples are [nic.flowers](http://nic.flowers/), [nic.social](http://nic.social/), and [nic.software](http://nic.software/). You can usually use these domains to quickly find out information about the domain.
+It's not a requirement, but organizations that manage top level domains usually have a website with the _**nic**_ second level where you can get more information about the TLD.  Some examples are [nic.flowers](http://nic.flowers/), [nic.social](http://nic.social/), and [nic.software](http://nic.software/). You can usually use these domains to quickly find out information about the TLD.
 
 
 ## Good Names
