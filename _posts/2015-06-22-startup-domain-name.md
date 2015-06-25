@@ -5,6 +5,7 @@ published: true
 ---
 
 
+
 So, you have a start up and need a domain name?  Well, yes, if you have a start up you need a good domain name.  What exactly makes one _good_? Is it possible these days to get a good one on a limited budget?  In this article I'll cover these questions and more.
 
 ## Domain Name Basics
@@ -38,6 +39,10 @@ Until recently, it was difficult and expensive to get a decent domain name.  The
 <iframe width="297" height="164" src="http://www.youtube.com/embed/1kFcxf8KAjg?showinfo=0" frameborder="0" allowfullscreen="" style="float:right;"></iframe>
 There has been an explosion of new top level domains, with more coming all the time.  The act of referring to a website as a "dot com" will be relegated to an anachronism over the coming years.  So, there's no need to worry about having that perfect .com domain, or pay an exhorbitant amount for one, since you can now get a really good domain with a different generic TLD.
 
+### nic
+
+It's not a requirement, but organizations that manages top level domains usually have a website with the nic second level where you can get more information about the TLD.  Some examples are [nic.flowers](http://nic.flowers/), [nic.social](http://nic.social/), and [nic.software](http://nic.software/). You can usually use these domains to quickly find out information about the domain.
+
 
 ## Good Names
 
@@ -69,4 +74,3 @@ The bottom line is that, while any one domain is not necessarily that expensive 
 There are many registrars, and everyone has a different opinion on which is the best.  Search around and find one that you feel comfortable, has a good reputation, and good prices.  Here's [a list](https://www.icann.org/registrar-reports/accreditation-qualified-list.html).
 
 Personally, I use [GoDaddy](https://www.godaddy.com/?ci=).  I just have for many years.  They are a bit more expensive than others, I think, but I've found their support to be exceptional.  [Enom](http://www.enom.com/) has a good site for searching for domains.
-
