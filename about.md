@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
 
-### More Information
+Hi! I'm Gary.  I live in Lowell, MA.  I have a diverse set of experience with software development. Lately, I've been focusing on modern web technologies and open source.
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### Some Links
+- https://www.linkedin.com/in/garychamberlain
+- https://github.com/GaryChamberlain
+- https://pro.graphics
+- Contact: gary at pro.graphics
