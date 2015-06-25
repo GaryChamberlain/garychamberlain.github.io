@@ -73,6 +73,6 @@ The bottom line is that, while any one domain is not necessarily that expensive 
 
 ## Registering Your Domain
 
-There are many registrars, and everyone has a different opinion on which is the best.  Search around and find one that you feel comfortable, has a good reputation, and good prices.  Here's [a list](https://www.icann.org/registrar-reports/accreditation-qualified-list.html).
+There are many registrars, and everyone has a different opinion on which is the best.  Search around and find one that you feel comfortable with, has a good reputation, and good prices.  Here's [a list](https://www.icann.org/registrar-reports/accreditation-qualified-list.html).
 
 Personally, I use [GoDaddy](https://www.godaddy.com/?ci=).  I just have for many years.  They are a bit more expensive than others, I think, but I've found their support to be exceptional.  [Enom](http://www.enom.com/) has a good site for searching for domains.
