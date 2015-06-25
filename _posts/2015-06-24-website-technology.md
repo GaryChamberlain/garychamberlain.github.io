@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Startup Website
+title: Website Technology
 published: true
 ---
 
