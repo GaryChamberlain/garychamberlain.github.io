@@ -39,6 +39,8 @@ Until recently, it was difficult and expensive to get a decent domain name.  The
 <iframe width="297" height="164" src="http://www.youtube.com/embed/1kFcxf8KAjg?showinfo=0" frameborder="0" allowfullscreen="" style="float:right;"></iframe>
 There has been an explosion of new top level domains, with more coming all the time.  The act of referring to a website as a "dot com" will be relegated to an anachronism over the coming years.  So, there's no need to worry about having that perfect .com domain, or pay an exhorbitant amount for one, since you can now get a really good domain with a different generic TLD.
 
+http://newgtlds.icann.org/en/
+
 ### nic
 
 It's not a requirement, but organizations that manages top level domains usually have a website with the nic second level where you can get more information about the TLD.  Some examples are [nic.flowers](http://nic.flowers/), [nic.social](http://nic.social/), and [nic.software](http://nic.software/). You can usually use these domains to quickly find out information about the domain.
