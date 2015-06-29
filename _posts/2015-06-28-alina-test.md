@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Your Website Platform
+title: Alina's Test
 published: true
 ---
 
